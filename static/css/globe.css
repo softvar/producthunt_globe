@@ -34,6 +34,7 @@ small {
 }
 
 #info {
+  position: absolute;
   font-size: 11px;
   position: absolute;
   bottom: 0;
