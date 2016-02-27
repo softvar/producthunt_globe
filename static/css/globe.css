@@ -34,7 +34,6 @@ small {
 }
 
 #info {
-  position: absolute;
   font-size: 11px;
   position: absolute;
   bottom: 0;
@@ -60,6 +59,7 @@ a:hover {
 }
 
 div#title {
+  position: absolute;
   top: 20px;
   left: 20px;
   border-radius: 3px;
