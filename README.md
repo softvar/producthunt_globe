@@ -12,7 +12,7 @@ Visualization is done using [Google WebGL Globe Experiment](https://www.chromeex
 ## Featured on [ProductHunt](https://www.producthunt.com/tech/producthunt-globe)
 
 <p align="center">
-	<img src="https://www.dropbox.com/s/4oazhnrvg70x70p/Screenshot%202016-03-06%2003.37.28.png?dl=0" alt="ProductHunt Users Worldwide" />
+	<img src="https://dl.dropboxusercontent.com/s/4oazhnrvg70x70p/Screenshot%202016-03-06%2003.37.28.png?dl=0" alt="ProductHunt Users Worldwide" />
 </p>
 
 ## Screenshot
